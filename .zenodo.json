@@ -1,7 +1,7 @@
 {
   "title": "Predation on frogs and tadpoles: interaction records from open-access natural-history notes (2022-2026)",
   "upload_type": "dataset",
-  "description": "<p>Species-interaction records (predator, prey, interaction type, locality, date) for predation or feeding events on frogs and tadpoles, taken from recent open-access natural-history notes and formatted for Global Biotic Interactions (GloBI, http://globalbioticinteractions.org). Each row cites its source paper by DOI. Only facts and citations are recorded; no text from the papers is copied. Every row was extracted by one reader and re-checked against the paper by an independent second pass. 'New' in the project notes means new to GloBI, not new to science.</p><p>Version 0.1.0: 46 interactions from 36 notes (Reptiles &amp; Amphibians, Revista Latinoamericana de Herpetologia, Phyllomedusa, Herpetozoa, The Herpetological Bulletin). Licence: CC BY 4.0.</p>",
+  "description": "<p>Species-interaction records (predator, prey, interaction type, locality, date) for predation or feeding events on frogs and tadpoles, taken from recent open-access natural-history notes and formatted for Global Biotic Interactions (GloBI, http://globalbioticinteractions.org). Each row cites its source paper by DOI. Only facts and citations are recorded; no text from the papers is copied. Every row was extracted by one reader and re-checked against the paper by an independent second pass. 'New' in the project notes means new to GloBI, not new to science.</p><p>Version 0.1.1: 46 interactions from 36 notes (Reptiles &amp; Amphibians, Revista Latinoamericana de Herpetologia, Phyllomedusa, Herpetozoa, The Herpetological Bulletin). Licence: CC BY 4.0.</p>",
   "creators": [
     {
       "name": "Ashley, Chris",

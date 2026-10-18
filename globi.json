@@ -1,6 +1,6 @@
 {
   "_comment": "Descriptor for http://globalbioticinteractions.org . Licence is CC BY 4.0 (see LICENSE and README.md); the GloBI template defines no licence key.",
-  "citation": "Ashley, C. 2026. Predation on frogs and tadpoles: interaction records extracted from open-access natural-history notes, 2022-2026. Version 0.1.0.",
-  "version": "0.1.0",
+  "citation": "Ashley, C. 2026. Predation on frogs and tadpoles: interaction records extracted from open-access natural-history notes, 2022-2026. Version 0.1.1. https://doi.org/10.5281/zenodo.23458279",
+  "version": "0.1.1",
   "deprecated": false
 }

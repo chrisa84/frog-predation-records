@@ -1,12 +1,14 @@
 # Predation on frogs and tadpoles: records from natural-history notes
 
-Species-interaction data for [Global Biotic Interactions](http://globalbioticinteractions.org) (GloBI). Version 0.1.0.
+Species-interaction data for [Global Biotic Interactions](http://globalbioticinteractions.org) (GloBI). Version 0.1.1.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23458279.svg)](https://doi.org/10.5281/zenodo.23458279)
 
 Each row is one predation or feeding event on a frog or tadpole, reported by the authors of a recent open-access natural-history note (2022-2026) in Reptiles & Amphibians, Revista Latinoamericana de Herpetologia, Phyllomedusa, Herpetozoa or The Herpetological Bulletin. Each row records who ate whom, where, when, and cites the paper by DOI.
 
 Licence: [CC BY 4.0](LICENSE). The dataset contains facts and citations only. No text from the papers is copied.
 
-Citation: Ashley, C. 2026. Predation on frogs and tadpoles: interaction records extracted from open-access natural-history notes, 2022-2026. Version 0.1.0.
+Citation: Ashley, C. 2026. Predation on frogs and tadpoles: interaction records extracted from open-access natural-history notes, 2022-2026. Version 0.1.1. https://doi.org/10.5281/zenodo.23458279
 
 ## What is in it
 - 46 interactions from 36 notes: 22 `preysOn`, 24 `eats`. Source taxon = predator, target taxon = prey.
