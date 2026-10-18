@@ -1,0 +1,78 @@
+role	name_in_paper	name_in_dataset	gbif	col	col_source
+predator	Amphiesma stolatum	Amphiesma stolatum	Amphiesma stolatum (Linnaeus, 1758)	Amphiesma stolatum (Linnaeus, 1758)	The Reptile Database
+predator	Ancylometes bogotensis	Ancylometes bogotensis	Ancylometes bogotensis (Keyserling, 1877)	Ancylometes bogotensis (Keyserling, 1877)	The World Spider Catalog
+predator	Ancylometes sp.	Ancylometes	Ancylometes Bertkau, 1880	Ancylometes Bertkau, 1880	The World Spider Catalog
+predator	Basiliscus galeritus	Basiliscus galeritus	Basiliscus galeritus Duméril, 1851	Basiliscus galeritus Duméril, 1851	The Reptile Database
+predator	Broadleysaurus major	Broadleysaurus major	Broadleysaurus major (Duméril, 1851)	Broadleysaurus major (Duméril, 1851)	The Reptile Database
+predator	Buteogallus urubitinga	Buteogallus urubitinga	Buteogallus urubitinga (Gmelin, 1788)	Buteogallus urubitinga (J. F. Gmelin, 1788)	The Integrated Taxonomic Information System
+predator	Butorides striata	Butorides striata	Butorides striata (Linnaeus, 1758)	Butorides striata (Linnaeus, 1758)	The Integrated Taxonomic Information System
+predator	Chironius laevicollis	Chironius laevicollis	Chironius laevicollis (Wied-Neuwied, 1824)	Chironius laevicollis (Wied-Neuwied, 1824)	The Reptile Database
+predator	Crotophaga ani	Crotophaga ani	Crotophaga ani Linnaeus, 1758	Crotophaga ani Linnaeus, 1758	The Integrated Taxonomic Information System
+predator	Ctenus cf. medius	Ctenus	Ctenus medius Keyserling, 1891	Ctenus medius Keyserling, 1891	The World Spider Catalog
+predator	Ctenus sp.	Ctenus	Arthropoda	Ctenus Walckenaer, 1805	The World Spider Catalog
+predator	Cupiennius coccineus	Cupiennius coccineus	Cupiennius coccineus F.O.Pickard-Cambridge, 1901	Cupiennius coccineus F. O. Pickard-Cambridge, 1901	The World Spider Catalog
+predator	Dendrelaphis pictus	Dendrelaphis pictus	Dendrelaphis pictus (Gmelin, 1789)	Dendrelaphis pictus (Gmelin, 1789)	The Reptile Database
+predator	Dolomedes sp.	Dolomedes	Dolomedes Latreille, 1804	Dolomedes Latreille, 1804	The World Spider Catalog
+predator	Furnarius rufus	Furnarius rufus	Furnarius rufus (Gmelin, 1788)	Furnarius rufus (J. F. Gmelin, 1788)	The Integrated Taxonomic Information System
+predator	Grillitschia aceras	Grillitschia aceras	Animalia	Grillitschia aceras (Boulenger, 1903)	The Integrated Taxonomic Information System
+predator	Hemorrhois nummifer	Hemorrhois nummifer	Hemorrhois nummifer (Reuss, 1834)	Hemorrhois nummifer (Reuss, 1834)	The Reptile Database
+predator	Heteropoda sp.	Heteropoda	Animalia	Heteropoda Latreille, 1804	The World Spider Catalog
+predator	Hoplobatrachus tigerinus	Hoplobatrachus tigerinus	Hoplobatrachus tigerinus (Daudin, 1802)	Hoplobatrachus tigerinus (Daudin, 1802)	The Integrated Taxonomic Information System
+predator	Leptodactylus insularum	Leptodactylus insularum	Leptodactylus insularum Barbour, 1906	Leptodactylus insularum Barbour, 1906	The Integrated Taxonomic Information System
+predator	Leptodeira approximans	Leptodeira approximans	Leptodeira Fitzinger, 1843	Leptodeira approximans (Günther, 1872)	The Reptile Database
+predator	Leptodeira ornata	Leptodeira ornata	Leptodeira ornata (Bocourt, 1884)	Leptodeira ornata (Bocourt, 1884)	The Reptile Database
+predator	Leptophis ahaetulla	Leptophis ahaetulla	Leptophis ahaetulla (Linnaeus, 1758)	Leptophis ahaetulla (Linnaeus, 1758)	The Reptile Database
+predator	Leptophis depressirostris	Leptophis depressirostris	Leptophis depressirostris (Cope, 1861)	Leptophis depressirostris (Cope, 1861)	The Reptile Database
+predator	Leptophis occidentalis	Leptophis occidentalis	Leptophis Bell, 1825	Leptophis occidentalis (Günther, 1859)	The Reptile Database
+predator	Lethocerus sp.	Lethocerus	Lethocerus Mayr, 1853	Lethocerus Mayr, 1853	The Integrated Taxonomic Information System
+predator	Limnonectes blythii	Limnonectes blythii	Limnonectes blythii (Boulenger, 1920)	Limnonectes blythii (Boulenger, 1920)	The Integrated Taxonomic Information System
+predator	Lygophis lineatus	Lygophis lineatus	Lygophis lineatus (Linnaeus, 1758)	Lygophis lineatus (Linnaeus, 1758)	The Reptile Database
+predator	Myrrophis dakkrongensis	Myrrophis dakkrongensis	Myrrophis Kumar, Sanders, George & Murphy, 2012	Myrrophis dakkrongensis Nguyen, Le, Lathrop, Vo, Murphy & Che, 2024	The Reptile Database
+predator	Oxyopsis sp.	Oxyopsis	Arthropoda	Oxyopsis Caudell, 1904	Mantodea Species File
+predator	Paleosuchus trigonatus	Paleosuchus trigonatus	Paleosuchus trigonatus (Schneider, 1801)	Paleosuchus trigonatus (Schneider, 1801)	The Reptile Database
+predator	Parathelphusa pulcherrima	Parathelphusa pulcherrima	Parathelphusa pulcherrima (De Man, 1902)	Parathelphusa pulcherrima (De Man, 1902)	World List of marine Brachyura
+predator	Pelophylax sp.	Pelophylax	Pelophylax Fitzinger, 1843	Pelophylax Fitzinger, 1843	The Integrated Taxonomic Information System
+predator	Phormictopus cancerides	Phormictopus cancerides	Phormictopus cancerides (Latreille, 1806)	Phormictopus cancerides (Latreille, 1806)	The World Spider Catalog
+predator	Spinoctenus sp.	Spinoctenus	Spinoctenus Hazzi, Polotow, Brescovit, González-Obando & Simó, 2018	Spinoctenus Hazzi, Polotow, Brescovit, González-Obando & Simó, 2018	The World Spider Catalog
+predator	Suncus murinus	Suncus murinus	Suncus murinus (Linnaeus, 1766)	Suncus murinus (Linnaeus, 1766)	The Integrated Taxonomic Information System
+predator	Urocissa flavirostris	Urocissa flavirostris	Urocissa flavirostris (Blyth, 1846)	Urocissa flavirostris (Blyth, 1846)	The Integrated Taxonomic Information System
+prey	Agalychnis spurrelli	Agalychnis spurrelli	Agalychnis spurrelli Boulenger, 1913	Agalychnis spurrelli Boulenger, 1913	The Integrated Taxonomic Information System
+prey	Allobates ignotus	Allobates ignotus	Allobates ignotus Anganoy-Criollo, 2012	Allobates ignotus Anganoy-Criollo, 2012	The Integrated Taxonomic Information System
+prey	Boana boans	Boana boans	Boana boans (Linnaeus, 1758)	Boana boans (Linnaeus, 1758)	The Integrated Taxonomic Information System
+prey	Boana geographica	Boana geographica	Boana geographica (Spix, 1824)	Boana geographica (Spix, 1824)	The Integrated Taxonomic Information System
+prey	Boana pellucens	Boana pellucens	Boana pellucens (Werner, 1901)	Boana pellucens (Werner, 1901)	The Integrated Taxonomic Information System
+prey	Boana punctata	Boana punctata	Boana punctata (Schneider, 1799)	Boana punctata (Schneider, 1799)	The Integrated Taxonomic Information System
+prey	Chiasmocleis ventrimaculata	Chiasmocleis ventrimaculata	Chiasmocleis ventrimaculata (Andersson, 1945)	Chiasmocleis ventrimaculata (Andersson, 1945)	The Integrated Taxonomic Information System
+prey	Craugastor mimus	Craugastor mimus	Craugastor mimus (Taylor, 1955)	Craugastor mimus (Taylor, 1955)	The Integrated Taxonomic Information System
+prey	Dendrobates auratus	Dendrobates auratus	Dendrobates auratus (Girard, 1855)	Dendrobates auratus (Girard, 1855)	The Integrated Taxonomic Information System
+prey	Dendropsophus minutus	Dendropsophus minutus	Dendropsophus minutus (Peters, 1872)	Dendropsophus minutus (Peters, 1872)	The Integrated Taxonomic Information System
+prey	Dendropsophus reticulatus	Dendropsophus reticulatus	Dendropsophus reticulatus (Jiménez de la Espada, 1870)	Dendropsophus reticulatus (Jiménez de la Espada, 1870)	The Integrated Taxonomic Information System
+prey	Duttaphrynus melanostictus	Duttaphrynus melanostictus	Duttaphrynus melanostictus (Schneider, 1799)	Duttaphrynus melanostictus (Schneider, 1799)	The Integrated Taxonomic Information System
+prey	Eleutherodactylus flavescens	Eleutherodactylus flavescens	Eleutherodactylus flavescens Noble, 1923	Eleutherodactylus flavescens Noble, 1923	The Integrated Taxonomic Information System
+prey	Fejervarya sp.	Fejervarya	Fejervarya Bolkay, 1915	Fejervarya Bolkay, 1915	The Integrated Taxonomic Information System
+prey	Grillitschia longipes	Grillitschia longipes	Animalia	Grillitschia longipes (Boulenger, 1886)	The Integrated Taxonomic Information System
+prey	Hoplobatrachus tigerinus	Hoplobatrachus tigerinus	Hoplobatrachus tigerinus (Daudin, 1802)	Hoplobatrachus tigerinus (Daudin, 1802)	The Integrated Taxonomic Information System
+prey	Hyla sarda	Hyla sarda	Hyla sarda (De Betta, 1853)	Hyla sarda (De Betta, 1853)	The Integrated Taxonomic Information System
+prey	Hylarana nicobariensis	Hylarana nicobariensis	Amnirana nicobariensis (Stoliczka, 1870)	Hylarana nicobariensis Stoliczka, 1870	The Integrated Taxonomic Information System
+prey	Incilius valliceps	Incilius valliceps	Incilius valliceps (Wiegmann, 1833)	Incilius valliceps (Wiegmann, 1833)	The Integrated Taxonomic Information System
+prey	Leptodactylus fuscus	Leptodactylus fuscus	Leptodactylus fuscus (Schneider, 1799)	Leptodactylus fuscus (Schneider, 1799)	The Integrated Taxonomic Information System
+prey	Leptodactylus griseigularis	Leptodactylus griseigularis	Leptodactylus griseigularis (Henle, 1981)	Leptodactylus griseigularis (Henle, 1981)	The Integrated Taxonomic Information System
+prey	Leptodactylus insularum	Leptodactylus insularum	Leptodactylus insularum Barbour, 1906	Leptodactylus insularum Barbour, 1906	The Integrated Taxonomic Information System
+prey	Limnonectes splendissimus	Limnonectes splendissimus	Limnonectes Fitzinger, 1843	Limnonectes splendissimus Le, Nguyen, Murphy, Tran, Nguyen & Che, 2025	The Integrated Taxonomic Information System
+prey	Lysapsus limellum	Pseudis limellum	Lysapsus limellum Cope, 1862	Lysapsus limellum Cope, 1862	The Integrated Taxonomic Information System
+prey	Megophrys sp.	Xenophrys	Megophrys Kuhl & Van Hasselt, 1822	Megophrys Kuhl & Van Hasselt, 1822	The Integrated Taxonomic Information System
+prey	Microhyla berdmorei	Microhyla berdmorei	Microhyla berdmorei (Blyth, 1856)	Microhyla berdmorei (Blyth, 1856)	The Integrated Taxonomic Information System
+prey	Pedostibes tuberculosus	Pedostibes tuberculosus	Pedostibes tuberculosus Günther, 1876	Pedostibes tuberculosus Günther, 1876	The Integrated Taxonomic Information System
+prey	Pelophylax ridibundus	Pelophylax ridibundus	Pelophylax ridibundus (Pallas, 1771)	Pelophylax ridibundus (Pallas, 1771)	The Integrated Taxonomic Information System
+prey	Pristimantis achatinus	Pristimantis achatinus	Pristimantis achatinus (Boulenger, 1898)	Pristimantis achatinus (Boulenger, 1898)	The Integrated Taxonomic Information System
+prey	Pristimantis kichwarum	Pristimantis kichwarum	Pristimantis kichwarum Elmer & Cannatella, 2008	Pristimantis kichwarum Elmer & Cannatella, 2008	The Integrated Taxonomic Information System
+prey	Pristimantis pluvian	Pristimantis pluvian	Pristimantis pluvian Oliveira, Silva, Silva, Guimarães, Penhacek, Martínez, Rodrigues, Santana & Hernández-Ruz, 2020	Pristimantis pluvian Oliveira, Alves da Silva, Guimarães, Penhacek, Martínez, Rodrigues, Santana & Hernández-Ruz, 2020	The Integrated Taxonomic Information System
+prey	Pristimantis reichlei	Pristimantis reichlei	Pristimantis reichlei Padial & De la Riva, 2009	Pristimantis reichlei Padial & De la Riva, 2009	The Integrated Taxonomic Information System
+prey	Rhinella humboldti	Rhinella humboldti	Rhinella humboldti (Gallardo, 1965)	Rhinella humboldti (Gallardo, 1965)	The Integrated Taxonomic Information System
+prey	Rhinella marina	Rhinella marina	Rhinella marina (Linnaeus, 1758)	Rhinella marina (Linnaeus, 1758)	The Integrated Taxonomic Information System
+prey	Sclerophrys gutturalis	Sclerophrys gutturalis	Sclerophrys gutturalis (Power, 1927)	Sclerophrys gutturalis (Power, 1927)	The Integrated Taxonomic Information System
+prey	Smilisca baudinii	Smilisca baudinii	Smilisca baudinii (Duméril & Bibron, 1841)	Smilisca baudinii (Duméril & Bibron, 1841)	The Integrated Taxonomic Information System
+prey	Sphaerotheca sp.	Sphaerotheca	Sphaerotheca Günther, 1859	Sphaerotheca Günther, 1859	The Integrated Taxonomic Information System
+prey	Strabomantis anomalus	Strabomantis anomalus	Strabomantis anomalus (Boulenger, 1898)	Strabomantis anomalus (Boulenger, 1898)	The Integrated Taxonomic Information System
+prey	Thoropa miliaris	Thoropa miliaris	Thoropa miliaris (Spix, 1824)	Thoropa miliaris (Spix, 1824)	The Integrated Taxonomic Information System
+prey	Xenophrys zhangi	Xenophrys zhangi	Megophrys zhangi Ye & Fei, 1992	Xenophrys zhangi (Ye & Fei, 1992)	The Integrated Taxonomic Information System

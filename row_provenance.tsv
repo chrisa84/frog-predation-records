@@ -1,0 +1,47 @@
+line	row_id	doi	page_or_figure	outcome	time_local	observer_interference	confidence	notes	globi_check
+2	P01-01	10.3897/herpetozoa.39.e176733	Results 'Observation', Fig. 1	crab feeding on carcass; authors say predation vs scavenging cannot be told apart	17:30		medium	eats not preysOn: frog may already have been dead	new
+3	P02-01	10.11606/issn.2316-9079.v21i1p71-73	p.71-72, Fig. 1A-B	spider held both hind limbs, frog immobile, spider dragged it into rock crevice; not seen eaten	19:40		medium	date checked against page image; text layer garbled	new
+4	P03-01	10.17161/randa.v30i1.19629	p.1, Fig. 1A-B	bullfrog caught burrowing frog, prey escaped, was recaptured and swallowed alive	23:50		high	prey ID to genus only	new
+5	P04-01	10.17161/randa.v30i1.20275	p.1-2, Fig. 1	swallowed headfirst, 4 min	12:00		medium	Reptile Database restricts Dendrelaphis pictus to SE Asia east of Myanmar; Bangladeshi snakes are D. proarchos. Paper's name kept, flagged.	new
+6	P06-01	10.17161/randa.v31i1.20274	p.1, Fig. 2	left hindlimb swallowed, food bolus seen ~16 min later	11:58		high		already present
+7	P06-02	10.17161/randa.v31i1.20274	p.2	complete ingestion ~13 min	10:28		high	species not determinable, authors say so	already present
+8	P07-03	10.17161/randa.v32i1.22245	p.2, Fig. 3	shrew broke jaw of frog trapped in pit, frog died, shrew consumed it by next morning	18:00		high	frog was trapped in a 1 m pit	new
+9	P08-01	10.17161/randa.v32i1.23031	p.1, Fig. 1	ingested headfirst	11:58		high	melanistic snake	already present
+10	P09-01	10.17161/randa.v32i1.22419	p.1, Fig. 1	frog held in beak on branch ~20 s, bird flew off with it	11:04		medium	prey to genus only; frog not seen eaten; ASW places Himalayan horned frogs in Xenophrys; paper says Megophrys sp.	new
+11	P10-01	10.17161/randa.v32i1.24168	p.1, Fig. 1	complete ingestion, 8 min	22:02		high		new
+12	P11-01	10.17161/randa.v32i1.24192	p.1, Fig. 1	head and torso in mouth, ingestion completed within 2 min	21:58		high		new
+13	P13-01	10.17161/randa.v32i1.24117	p.1-2, Fig. 1B	half a partly digested frog in stomach of collected snake (voucher LBA29, Univ. of Science HCMC)	22:00		medium	stomach content, so eats; frog ID 'consistent with' L. splendissimus (partly digested)	new
+14	P14-01	10.17161/randa.v33i1.23941	p.1, Fig. 1	spider held dead toad by the head in its mouth			high		new
+15	P15-01	10.17161/randa.v31i1.22356	p.2, Fig. 1	toad battered against rock, swallowed completely after ~4 h	07:03	observers moved the abandoned dead toad to photograph it; the lizard then took it back and finished eating	high		new
+16	P16-01	10.33256/hb161.4041	p.40-41, Fig. 1	swallowed head first; predator moved away keeping prey firmly in mouth	00:21		high	coords converted from 40 40'53'' N, 8 13'19'' E; predator is an alien water frog, species not identified	uncertain
+17	P17-01	10.17161/randa.v29i1.16448	p.199, Fig. 1	swallowed hindlimbs first, complete ingestion in a few minutes	12:00		high	'about noon'; observation 17 years before publication	new
+18	P18-01	10.17161/randa.v30i1.19511	p.1, Fig. 1	toad swallowed completely as observer approached			high		new
+19	P19-01	10.17161/randa.v30i1.18531	p.1, Fig. 1	eaten headfirst, 25 min from capture to complete ingestion	12:31		medium	paper says the species occurs only in SW Costa Rica but the site is Sarapiqui (north); ID not explained	new
+20	P21-01	10.17161/randa.v31i1.21641	p.1, Fig. 1	bird shook and struck the frog, swallowed it whole; event lasted 15 min		observers moved the frog from the grass to the mowed area shortly before the bird took it	medium	frog found in grass while mowing and relocated to the mowed area by the observers before the ani took it	new
+21	P22-01	10.17161/randa.v31i1.22230	p.2, Figs. 2-3	spider bit hindlimb, frog paralysed within ~1 min; both collected by observers	22:37	observers collected the spider and the paralysed frog right after the bite, before any feeding	high	vouchers MUSM 41465 (frog), MUSM-ENT 0518271 (spider); frog not seen eaten	new
+22	P23-01	10.17161/randa.v32i1.23368	p.1, Fig. 1	spider seen eating the frog	19:41		high		new
+23	P24-01	10.17161/randa.v32i1.23841	p.1, Fig. 1	hawk perched on dead tree eating the toad, 20 min watched, entrails first	16:11		medium	kill not seen; toad already in hand when first seen, so eats not preysOn	new
+24	P25-01	10.17161/randa.v32i1.24708	p.1, Fig. 1	tarantula held frog's hindleg; 30 min later seen feeding on the frog	20:58	observers disturbed the pair during the event; both left in place	high	no coordinates; 'male' stated, adult not stated	new
+25	P26-01	10.17161/randa.v33i1.23621	p.1, Fig. 1A	spider subdued the frog with fangs in dorsal region after several failed attempts; ingestion not verified	23:28		high		new
+26	P26-02	10.17161/randa.v33i1.23621	p.1, Fig. 1B	spider ingesting the frog	02:51		high		new
+27	P26-03	10.17161/randa.v33i1.23621	p.1, Fig. 1C	frog's distress calls faded as it expired; ingestion not verified	22:17		high		new
+28	P26-05	10.17161/randa.v33i1.23621	p.2, Fig. 1E or 1F (text and caption disagree)	spider ingesting the frog	22:16		high	text says Fig. 1E, caption says Fig. 1F is C. ventrimaculata	new
+29	P26-06	10.17161/randa.v33i1.23621	p.2, Fig. 1F or 1E (text and caption disagree)	spider ingesting the frog	22:26		high	text says Fig. 1F, caption says Fig. 1E is D. minutus	new
+30	P27-01	10.17161/randa.v33i1.23759	p.1-2, Fig. 1	seized by hindleg, subdued, ingested legs first; ~4 min	21:17		high		new
+31	P28-01	10.17161/randa.v33i1.24252	p.1-2, Fig. 1	juvenile frog caught on landing; spider still holding it and apparently feeding ~1 h later	14:19		medium	completion not observed	new
+32	P29-01	10.22201/fc.25942158e.2022.4.551	p.115-116, Fig. 1A-B	partly digested frog in stomach of a snake found dead (not collected)	20:04		high	stomach content of dead snake, so eats; snake male, 2.10 m	new
+33	P29-02	10.22201/fc.25942158e.2022.4.551	p.117, Fig. 1C	spider preying on frog; frog collected (CHNF 0897)	18:35		high		new
+34	P29-03	10.22201/fc.25942158e.2022.4.551	p.117, Fig. 1D	spider preying on frog; frog collected (CHNF 0975)	19:46		medium	predator ID is 'cf.'	new
+35	P29-04	10.22201/fc.25942158e.2022.4.551	p.117, Fig. 1E-F	bird pecked frog, immobilised and swallowed it alive; watched 40 min, no regurgitation	12:10		high		new
+36	P30-01	10.22201/fc.25942158e.2024.1.775	p.42, Fig. 1C	heron beaked frog from water plants, then swallowed it			high	paper gives UTM 21K 445639.03 E, 8135971.32 S (SIRGAS2000); converted with src/utm.py; time not given	new
+37	P31-01	10.22201/fc.25942158e.2025.1.1122	p.156, Fig. 1	caiman held frog in mouth ~8 min then swallowed it	21:00		high	coords converted from 9 20'59.36'' S, 56 47'32.28'' W	new
+38	P32-01	10.22201/fc.25942158e.2025.2.1158	p.306, Fig. 1A-B	mantis had eaten the left hind leg and was eating the viscera	19:00		high	'approximately 19:00'; no specimens collected	new
+39	P33-01	10.22201/fc.25942158e.2025.3.1320	p.192-193, Fig. 1A-B	snake bit frog's rear end; frog stopped moving after 17 min; snake had a belly bulge 148 min later (swallowing inferred, not seen)	20:05		medium	consumption inferred from bulge	new
+40	P35-01	10.22201/fc.25942158e.2025.4.1472	p.28-29, Fig. 2A-B	juvenile lizard regurgitated a dead, partly digested frog when captured	19:51		medium	regurgitation seen, capture not; altitude 1865 m in text but 865 m in Fig. 1 caption; coordinates as printed; regurgitated frog photographed only; elevation 1865 m (text) vs 865 m (caption)	new
+41	P36-01	10.22201/fc.25942158e.2025.4.1357	p.219, Fig. 2	spider held frog by the neck until it died, then began eating it slowly	20:03		high	event coordinates used (reserve centre is 1.1368 S, 77.9525 W)	new
+42	P37-01	10.22201/fc.25942158e.2026.1.1451	p.41-42, Fig. 2A-B	juvenile spider on a shrub leaf with frog, then fled over rocks in the stream carrying it; eating not stated	18:39		medium	observed 18:39-19:28	new
+43	P38-01	10.22201/fc.25942158e.2026.1.1388	p.174-175, Fig. 1	frog half swallowed head first when found; snake bagged, swallowing finished in the bag; snake dissected	22:00	observers bagged the snake while it was still swallowing; swallowing finished in the bag; snake later dissected	medium	vouchered: snake EAFIT-R 0192 (adult female), frog EAFIT-Am 0136 (adult male); only the frog's feet were visible when the snake was bagged; swallowing finished in the bag	new
+44	P39-01	10.22201/fc.25942158e.2026.2.1554	p.390, Fig. 1A-B	toad held at front and eaten from the middle; a second bug grasped hind legs; toad dead and floating after ~3 min	23:50		high	two Lethocerus individuals on this toad; a second Lethocerus individual fed on the same toad (same predator taxon, so no separate row)	new
+45	P39-02	10.22201/fc.25942158e.2026.2.1554	p.390, Fig. 2	frog held at front and eaten from the middle, no longer moving; bug fed for several minutes			medium	same night; time not given; coordinates are those of the first event, ~20 m away; Fig. 2 not in the text layer, cited in text	new
+46	P40-01	10.22201/fc.25942158e.2025.3.1255	p.40-41, Fig. 1	snake swallowing the frog, interaction lasted 1 min 53 s; swallowing under way when record ends	12:00		high	not collected; digital material cited	new
+47	P40-02	10.22201/fc.25942158e.2025.3.1255	p.40-41, Fig. 2A-E	snake bit frog from behind, waited for it to die, repositioned and swallowed it headfirst; ~6 min			high	not collected; video cited; time 01:17 given, but the discussion says it happened by day; time left out of the dataset	already present
