@@ -1,6 +1,10 @@
 # Predation on frogs and tadpoles: records from natural-history notes
 
-Species-interaction data for [Global Biotic Interactions](http://globalbioticinteractions.org) (GloBI). Version 0.1.1.
+Species-interaction data for Global Biotic Interactions (GloBI, http://globalbioticinteractions.org). Version 0.1.1.
+
+[![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:chrisa84/frog-predation-records)](https://globalbioticinteractions.org/?accordingTo=globi:chrisa84/frog-predation-records)
+
+Configured to be indexed by GloBI as `globi:chrisa84/frog-predation-records`.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23458279.svg)](https://doi.org/10.5281/zenodo.23458279)
 
