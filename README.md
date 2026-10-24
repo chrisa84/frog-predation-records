@@ -1,6 +1,6 @@
 # Predation on frogs and tadpoles: records from natural-history notes
 
-Species-interaction data for Global Biotic Interactions (GloBI, http://globalbioticinteractions.org). Version 0.2.0.
+Species-interaction data for Global Biotic Interactions (GloBI, http://globalbioticinteractions.org). Version 0.2.1.
 
 [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:chrisa84/frog-predation-records)](https://globalbioticinteractions.org/?accordingTo=globi:chrisa84/frog-predation-records)
 
@@ -12,16 +12,16 @@ Each row is one predation or feeding event on a frog, tadpole or frog eggs, repo
 
 Licence: [CC BY 4.0](LICENSE). The dataset contains facts and citations only. No text from the papers is copied.
 
-Citation: Ashley, C. 2026. Predation on frogs and tadpoles: interaction records extracted from open-access natural-history notes, 2022-2026. Version 0.2.0. https://doi.org/10.5281/zenodo.23458279
+Citation: Ashley, C. 2026. Predation on frogs and tadpoles: interaction records extracted from open-access natural-history notes, 2022-2026. Version 0.2.1. https://doi.org/10.5281/zenodo.23458279
 
 ## What is in it
-- 97 interactions from 72 notes: 36 `preysOn`, 61 `eats`. Source taxon = predator, target taxon = prey.
-- 71 rows are species on both sides. 18 rows have a predator only to genus or family (mostly spiders) and 9 have a prey only to genus or order (1 have both).
-- 92 rows have coordinates as given in the paper. 96 have an observation date. Local times are in `row_provenance.tsv`, not in `interactions.tsv`.
+- 102 interactions from 76 notes: 40 `preysOn`, 62 `eats`. Source taxon = predator, target taxon = prey.
+- 74 rows are species on both sides. 19 rows have a predator only to genus or family (mostly spiders) and 10 have a prey only to genus or order (1 have both).
+- 97 rows have coordinates as given in the paper. 101 have an observation date. Local times are in `row_provenance.tsv`, not in `interactions.tsv`.
 - 12 rows have frog eggs as the prey and 2 have tadpoles (see the life stage columns). Rows where a tadpole or frog is the predator are marked in the predator life stage column.
-- 53 rows are high confidence and 44 medium (see `row_provenance.tsv`).
+- 56 rows are high confidence and 46 medium (see `row_provenance.tsv`).
 
-"New" in this project's notes means **new to GloBI, not new to science**. When checked (18 Oct 2026 for the first 46 rows, 24 Oct 2026 for the other 51), 80 of the 97 pairs were not in GloBI under any name variant, 16 were already there and 1 was uncertain (other species of the same genus were recorded). The rows that GloBI already has are kept because they add a dated, cited source.
+"New" in this project's notes means **new to GloBI, not new to science**. When checked (18 Oct 2026 for the first 46 rows, 24 Oct 2026 for the other 56), 84 of the 102 pairs were not in GloBI under any name variant, 17 were already there and 1 was uncertain (other species of the same genus were recorded). The rows that GloBI already has are kept because they add a dated, cited source.
 
 ## Files
 - `interactions.tsv`: the data, in the GloBI template columns.
@@ -32,21 +32,21 @@ Citation: Ashley, C. 2026. Predation on frogs and tadpoles: interaction records 
 
 ## Rules
 - `preysOn` only when the authors saw the capture or kill, or the prey was clearly alive when first seen. Otherwise `eats`: found already eating, prey state not stated, stomach or regurgitated contents, eating eggs, or scavenging a dead animal.
-- Wild animals only. Where observers moved, collected or disturbed animals during the event, `row_provenance.tsv` says so (17 rows).
+- Wild animals only. Where observers moved, collected or disturbed animals during the event, `row_provenance.tsv` says so (19 rows).
 - Left out: attacks the frog escaped, events cut short by observers with unknown outcome, attacks the authors themselves call attempts, observations a paper only cites from other papers, captive or laboratory animals, parasitic blood feeding, and aggregate diet statements with no dated event.
 - One row per predator taxon, prey taxon and event. When several individuals of the same predator taxon fed on the same prey taxon in one event (for example several capuchins eating one egg mass), they are one row and the number is in `row_provenance.tsv`.
 - Names: names are kept as written in the paper unless the paper itself or the databases show a plain misspelling or the paper gives its own current name. Frogs follow Amphibian Species of the World (ASW) where it could be checked. Seven names (18 Oct 2026) were checked in ASW itself; on 24 Oct 2026 ASW could not be reached, so frog names where GBIF and the Catalogue of Life disagreed were left unchecked and are marked in `names_audit.tsv`. Predators follow GBIF and the Catalogue of Life (Reptile Database for reptiles). A predator or prey identified only to genus stays at genus, and "cf.", "aff." and "probably" identifications are lowered to genus.
-- Every record cites a DOI. If later versions need a paper without a DOI (for example in Herpetology Notes), a URL reference will be used for that row only, and this README will say so.
+- Every record cites a DOI except the 2 rows from two Cuadernos de Herpetología notes (Parreira et al. 2025, Aragão et al. 2026). Those notes print a DOI that resolves to a different paper or is not registered, so those rows cite the article URL instead (`referenceDoi` is empty). Herpetology Notes has no DOIs and is not included.
 
 ## How records were checked
 1. One reader extracted the rows from each paper.
 2. A second, separate pass, which saw only the papers and the extracted rows, re-checked every field of every row and read each paper for missed events. This was done separately for each of the two sets of rows.
 3. Each pair was searched in the GloBI API under every name variant (as written, accepted names, synonyms).
-4. GloBI's checker (Elton 0.17.2) was run on this folder: 97 interactions, no warnings.
+4. GloBI's checker (Elton 0.17.2) was run on this folder: 102 interactions, no warnings.
 
 **Second-pass result, first 46 rows (v0.1.0):** 884 field checks over 52 extracted rows, 20 disagreements (2.3%). None of the 520 hard-fact fields (names as written, life stage, locality, coordinates, date, page or figure) was wrong. 18 of 52 extracted rows had at least one disagreement, nearly all about how an event was coded (observer interference, `preysOn` versus `eats`). All were fixed, and 6 rows were dropped, before release.
 
-**Second-pass result, the other 51 rows (v0.2.0):** 936 field checks over 52 extracted rows, 15 disagreements (1.6%), including accepted-name checks. 6 of the 520 hard-fact fields differed: page pointers, life stages and one locality wording; none was a name as written, a coordinate or a date. 11 of 52 extracted rows had at least one disagreement. 1 row was dropped and 2 changed from `preysOn` to `eats`. The reviewer also asked for several group rows to be split into one row per animal; they were not split, because a row is one predator taxon eating one prey taxon in one event.
+**Second-pass result, the other 56 rows (v0.2.0):** 1026 field checks over 57 extracted rows, 26 disagreements (2.5%), including accepted-name checks. 7 of the 570 hard-fact fields differed: page pointers, life stages and one locality wording; none was a name as written, a coordinate or a date. 16 of 57 extracted rows had at least one disagreement. 1 row was dropped and 2 changed from `preysOn` to `eats`. The reviewer also asked for several group rows to be split into one row per animal; they were not split, because a row is one predator taxon eating one prey taxon in one event.
 
 ## Things to know about the sources
 Contradictions inside the papers, flagged rather than resolved:
@@ -77,6 +77,6 @@ Name questions (the paper's name is kept unless noted):
 Records are only as good as the original notes. Corrections are welcome via an issue on this repository.
 
 ## Version history
-- 0.2.0: 51 rows from 36 further notes added (97 in total), including frog eggs and tadpoles as prey.
+- 0.2.0: 56 rows from 40 further notes added (102 in total), including frog eggs and tadpoles as prey.
 - 0.1.1: Zenodo DOI added to the citation and README.
 - 0.1.0: first release, 46 rows from 36 notes.

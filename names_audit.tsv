@@ -4,10 +4,12 @@ predator	Ancylometes bogotensis	Ancylometes bogotensis	Ancylometes bogotensis (K
 predator	Ancylometes sp.	Ancylometes	Ancylometes Bertkau, 1880	Ancylometes Bertkau, 1880	The World Spider Catalog	not applicable (not a frog)
 predator	Basiliscus galeritus	Basiliscus galeritus	Basiliscus galeritus Duméril, 1851	Basiliscus galeritus Duméril, 1851	The Reptile Database	not applicable (not a frog)
 predator	Basiliscus plumifrons	Basiliscus plumifrons	Basiliscus plumifrons Cope, 1875	Basiliscus plumifrons Cope, 1875	The Reptile Database	not applicable (not a frog)
+predator	Boana faber	Boana faber	Boana faber (Wied-Neuwied, 1821)	Boana faber (Wied-Neuwied, 1821)	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
 predator	Broadleysaurus major	Broadleysaurus major	Broadleysaurus major (Duméril, 1851)	Broadleysaurus major (Duméril, 1851)	The Reptile Database	not applicable (not a frog)
 predator	Buteogallus urubitinga	Buteogallus urubitinga	Buteogallus urubitinga (Gmelin, 1788)	Buteogallus urubitinga (J. F. Gmelin, 1788)	The Integrated Taxonomic Information System	not applicable (not a frog)
 predator	Butorides striata	Butorides striata	Butorides striata (Linnaeus, 1758)	Butorides striata (Linnaeus, 1758)	The Integrated Taxonomic Information System	not applicable (not a frog)
 predator	Cebus imitator	Cebus imitator	Cebus imitator Thomas, 1903	Cebus imitator Thomas, 1903	The Integrated Taxonomic Information System	not applicable (not a frog)
+predator	Chironius brazili	Chironius brazili	Chironius brazili Hamdan & Fernandes, 2015	Chironius brazili Hamdan & Fernandes, 2015	The Reptile Database	not applicable (not a frog)
 predator	Chironius flavopictus	Chironius flavopictus	Chironius flavopictus (Werner, 1909)	Chironius flavopictus (Werner, 1909)	The Reptile Database	not applicable (not a frog)
 predator	Chironius foveatus	Chironius foveatus	Chironius foveatus Bailey, 1955	Chironius foveatus Bailey, 1955	The Reptile Database	not applicable (not a frog)
 predator	Chironius laevicollis	Chironius laevicollis	Chironius laevicollis (Wied-Neuwied, 1824)	Chironius laevicollis (Wied-Neuwied, 1824)	The Reptile Database	not applicable (not a frog)
@@ -43,6 +45,7 @@ predator	Leptodeira uribei	Leptodeira uribei	Leptodeira uribei (Bautista & Smith
 predator	Leptophis ahaetulla	Leptophis ahaetulla	Leptophis ahaetulla (Linnaeus, 1758)	Leptophis ahaetulla (Linnaeus, 1758)	The Reptile Database	not applicable (not a frog)
 predator	Leptophis coeruleodorsus	Leptophis coeruleodorsus	Leptophis coeruleodorsus Oliver, 1942	Leptophis coeruleodorsus Oliver, 1942	The Reptile Database	not applicable (not a frog)
 predator	Leptophis depressirostris	Leptophis depressirostris	Leptophis depressirostris (Cope, 1861)	Leptophis depressirostris (Cope, 1861)	The Reptile Database	not applicable (not a frog)
+predator	Leptophis mystacinus	Leptophis mystacinus	Leptophis Bell, 1825	Leptophis mystacinus Albuquerque, Martins, Carvalho, Shepard & Santana, 2025	The Reptile Database	not applicable (not a frog)
 predator	Leptophis occidentalis	Leptophis occidentalis	Leptophis Bell, 1825	Leptophis occidentalis (Günther, 1859)	The Reptile Database	not applicable (not a frog)
 predator	Lethocerus sp.	Lethocerus	Lethocerus Mayr, 1853	Lethocerus Mayr, 1853	The Integrated Taxonomic Information System	not applicable (not a frog)
 predator	Limnonectes blythii	Limnonectes blythii	Limnonectes blythii (Boulenger, 1920)	Limnonectes blythii (Boulenger, 1920)	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
@@ -54,6 +57,7 @@ predator	Paleosuchus trigonatus	Paleosuchus trigonatus	Paleosuchus trigonatus (S
 predator	Parathelphusa pulcherrima	Parathelphusa pulcherrima	Parathelphusa pulcherrima (De Man, 1902)	Parathelphusa pulcherrima (De Man, 1902)	World List of marine Brachyura	not applicable (not a frog)
 predator	Pelophylax sp.	Pelophylax	Pelophylax Fitzinger, 1843	Pelophylax Fitzinger, 1843	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
 predator	Pharomachrus mocinno	Pharomachrus mocinno	Pharomachrus mocinno La Llave, 1832	Pharomachrus mocinno La Llave, 1832	The Integrated Taxonomic Information System	not applicable (not a frog)
+predator	Philodryas nattereri	Philodryas nattereri	Philodryas nattereri (Steindachner, 1870)	Philodryas nattereri (Steindachner, 1870)	The Reptile Database	not applicable (not a frog)
 predator	Phormictopus cancerides	Phormictopus cancerides	Phormictopus cancerides (Latreille, 1806)	Phormictopus cancerides (Latreille, 1806)	The World Spider Catalog	not applicable (not a frog)
 predator	Pliocercus elapoides	Pliocercus elapoides	Pliocercus elapoides Cope, 1860	Pliocercus elapoides Cope, 1860	The Reptile Database	not applicable (not a frog)
 predator	Pliocercus euryzonus	Pliocercus euryzonus	Pliocercus euryzonus Cope, 1862	Pliocercus euryzonus Cope, 1862	The Reptile Database	not applicable (not a frog)
@@ -79,6 +83,7 @@ prey	Boana geographica	Boana geographica	Boana geographica (Spix, 1824)	Boana ge
 prey	Boana pellucens	Boana pellucens	Boana pellucens (Werner, 1901)	Boana pellucens (Werner, 1901)	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
 prey	Boana pugnax	Boana pugnax	Boana pugnax (Schmidt, 1857)	Boana pugnax (Schmidt, 1857)	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
 prey	Boana punctata	Boana punctata	Boana punctata (Schneider, 1799)	Boana punctata (Schneider, 1799)	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
+prey	Bokermannohyla luctuosa	Bokermannohyla luctuosa	Bokermannohyla luctuosa (Pombal & Haddad, 1993)	Bokermannohyla luctuosa (Pombal & Haddad, 1993)	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
 prey	Bufo houstonensis	Anaxyrus houstonensis	Anaxyrus houstonensis (Sanders, 1953)	Bufo houstonensis Sanders, 1953	The Integrated Taxonomic Information System	GBIF and CoL disagree, ASW unreachable on 24 Oct 2026, unchecked
 prey	Chiasmocleis ventrimaculata	Chiasmocleis ventrimaculata	Chiasmocleis ventrimaculata (Andersson, 1945)	Chiasmocleis ventrimaculata (Andersson, 1945)	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
 prey	Cochranella granulosa	Cochranella granulosa	Cochranella granulosa (Taylor, 1949)	Cochranella granulosa (Taylor, 1949)	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
@@ -108,6 +113,7 @@ prey	Leptodactylus fuscus	Leptodactylus fuscus	Leptodactylus fuscus (Schneider, 
 prey	Leptodactylus griseigularis	Leptodactylus griseigularis	Leptodactylus griseigularis (Henle, 1981)	Leptodactylus griseigularis (Henle, 1981)	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
 prey	Leptodactylus insularum	Leptodactylus insularum	Leptodactylus insularum Barbour, 1906	Leptodactylus insularum Barbour, 1906	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
 prey	Leptodactylus macrosternum	Leptodactylus macrosternum	Leptodactylus macrosternum Miranda-Ribeiro, 1926	Leptodactylus macrosternum Miranda-Ribeiro, 1926	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
+prey	Leptodactylus sp.	Leptodactylus	Leptodactylus Fitzinger, 1826	Leptodactylus Fitzinger, 1826	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
 prey	Limnonectes splendissimus	Limnonectes splendissimus	Limnonectes Fitzinger, 1843	Limnonectes splendissimus Le, Nguyen, Murphy, Tran, Nguyen & Che, 2025	The Integrated Taxonomic Information System	checked in ASW
 prey	Lithobates berlandieri	Lithobates berlandieri	Lithobates berlandieri (Baird, 1859)	Lithobates berlandieri (Baird, 1859)	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
 prey	Lysapsus limellum	Pseudis limellum	Lysapsus limellum Cope, 1862	Lysapsus limellum Cope, 1862	The Integrated Taxonomic Information System	checked in ASW
@@ -117,6 +123,7 @@ prey	Pedostibes tuberculosus	Pedostibes tuberculosus	Pedostibes tuberculosus Gü
 prey	Pelophylax cerigensis	Pelophylax cerigensis	Pelophylax cerigensis (Beerli, Hotz, Tunner, Heppich & Uzzell, 1994)	Pelophylax cerigensis (Beerli, Hotz, Tunner, Heppich & Uzzell, 1994)	The Integrated Taxonomic Information System	GBIF and CoL disagree, ASW unreachable on 24 Oct 2026, unchecked
 prey	Pelophylax ridibundus	Pelophylax ridibundus	Pelophylax ridibundus (Pallas, 1771)	Pelophylax ridibundus (Pallas, 1771)	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
 prey	Phyllomedusa venusta	Phyllomedusa venusta	Phyllomedusa venusta Duellman & Trueb, 1967	Phyllomedusa venusta Duellman & Trueb, 1967	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
+prey	Physalaemus biligonigerus	Physalaemus biligonigerus	Physalaemus biligonigerus (Cope, 1861)	Physalaemus biligonigerus (Cope, 1861)	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
 prey	Plectrohyla matudai	Plectrohyla matudai	Plectrohyla matudai Hartweg, 1941	Plectrohyla matudai Hartweg, 1941	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
 prey	Pleurodema brachyops	Pleurodema brachyops	Pleurodema brachyops (Cope, 1869)	Pleurodema brachyops (Cope, 1869)	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
 prey	Pristimantis achatinus	Pristimantis achatinus	Pristimantis achatinus (Boulenger, 1898)	Pristimantis achatinus (Boulenger, 1898)	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
@@ -137,7 +144,9 @@ prey	Smilisca phaeota	Smilisca phaeota	Smilisca phaeota (Cope, 1862)	Smilisca ph
 prey	Smilisca sordida	Smilisca sordida	Smilisca sordida (Peters, 1863)	Smilisca sordida (Peters, 1863)	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
 prey	Sphaerotheca sp.	Sphaerotheca	Sphaerotheca Günther, 1859	Sphaerotheca Günther, 1859	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
 prey	Strabomantis anomalus	Strabomantis anomalus	Strabomantis anomalus (Boulenger, 1898)	Strabomantis anomalus (Boulenger, 1898)	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
+prey	Thoropa megatympanum	Thoropa megatympanum	Thoropa megatympanum Caramaschi & Sazima, 1984	Thoropa megatympanum Caramaschi & Sazima, 1984	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
 prey	Thoropa miliaris	Thoropa miliaris	Thoropa miliaris (Spix, 1824)	Thoropa miliaris (Spix, 1824)	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
+prey	Trachycephalus mambaiensis	Trachycephalus mambaiensis	Trachycephalus mambaiensis Cintra, Silva, Silva, Garcia & Zaher, 2009	Trachycephalus mambaiensis Cintra, Silva, Silva, Garcia & Zaher, 2009	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
 prey	Trachycephalus vermiculatus	Trachycephalus vermiculatus	Trachycephalus vermiculatus (Duméril & Bibron, 1841)	Trachycephalus vermiculatus (Duméril & Bibron, 1841)	The Integrated Taxonomic Information System	GBIF and CoL disagree, ASW unreachable on 24 Oct 2026, unchecked
 prey	Triprion petasatus	Triprion petasatus	Triprion petasatus (Cope, 1865)	Triprion petasatus (Cope, 1865)	The Integrated Taxonomic Information System	GBIF and CoL agree, not checked in ASW
 prey	Xenophrys zhangi	Xenophrys zhangi	Megophrys zhangi Ye & Fei, 1992	Xenophrys zhangi (Ye & Fei, 1992)	The Integrated Taxonomic Information System	checked in ASW
