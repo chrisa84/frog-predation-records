@@ -79,6 +79,6 @@ Records are only as good as the original notes. Corrections are welcome via an i
 ## Version history
 - 0.2.2: two rows (a Ctenus spider and a Rhinella frog, both named only to genus) carried a species-level GBIF ID; the IDs were removed. No other change.
 - 0.2.1: 5 rows from 5 Cuadernos de Herpetología notes added (102 in total); two of them cite the article URL because their printed DOIs are wrong or unregistered.
-- 0.2.0: 56 rows from 40 further notes added (102 in total), including frog eggs and tadpoles as prey.
+- 0.2.0: 51 rows from 36 further notes added (97 in total), including frog eggs and tadpoles as prey.
 - 0.1.1: Zenodo DOI added to the citation and README.
 - 0.1.0: first release, 46 rows from 36 notes.
