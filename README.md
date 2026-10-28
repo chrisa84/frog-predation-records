@@ -1,6 +1,6 @@
 # Predation on frogs and tadpoles: records from natural-history notes
 
-Species-interaction data for Global Biotic Interactions (GloBI, http://globalbioticinteractions.org). Version 0.2.1.
+Species-interaction data for Global Biotic Interactions (GloBI, http://globalbioticinteractions.org). Version 0.2.2.
 
 [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:chrisa84/frog-predation-records)](https://globalbioticinteractions.org/?accordingTo=globi:chrisa84/frog-predation-records)
 
@@ -12,7 +12,7 @@ Each row is one predation or feeding event on a frog, tadpole or frog eggs, repo
 
 Licence: [CC BY 4.0](LICENSE). The dataset contains facts and citations only. No text from the papers is copied.
 
-Citation: Ashley, C. 2026. Predation on frogs and tadpoles: interaction records extracted from open-access natural-history notes, 2022-2026. Version 0.2.1. https://doi.org/10.5281/zenodo.23458279
+Citation: Ashley, C. 2026. Predation on frogs and tadpoles: interaction records extracted from open-access natural-history notes, 2022-2026. Version 0.2.2. https://doi.org/10.5281/zenodo.23458279
 
 ## What is in it
 - 102 interactions from 76 notes: 40 `preysOn`, 62 `eats`. Source taxon = predator, target taxon = prey.
@@ -77,6 +77,8 @@ Name questions (the paper's name is kept unless noted):
 Records are only as good as the original notes. Corrections are welcome via an issue on this repository.
 
 ## Version history
+- 0.2.2: two rows (a Ctenus spider and a Rhinella frog, both named only to genus) carried a species-level GBIF ID; the IDs were removed. No other change.
+- 0.2.1: 5 rows from 5 Cuadernos de Herpetología notes added (102 in total); two of them cite the article URL because their printed DOIs are wrong or unregistered.
 - 0.2.0: 56 rows from 40 further notes added (102 in total), including frog eggs and tadpoles as prey.
 - 0.1.1: Zenodo DOI added to the citation and README.
 - 0.1.0: first release, 46 rows from 36 notes.
